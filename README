@@ -4,7 +4,7 @@ ask user for small number
 ask user for a second number 
 require whole number for inputs 
 ensure second umber is greater than the first 
-
+    
 use loop and range functions to print the numbres in between the two numbers
 
 display the sum of the numbers printed 
